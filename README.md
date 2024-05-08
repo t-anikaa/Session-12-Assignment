@@ -28,6 +28,8 @@
 
 *   [GEE link](https://code.earthengine.google.com/1d96614aa88d32fe7a761d245bf90c8b )
 *   [Code file link](https://github.com/t-anikaa/Session-12-Assignment/blob/main/Q%26A%5B3%5DNDVI.js)
+![Capture12 3 1](https://github.com/t-anikaa/Session-12-Assignment/assets/161161157/387af84a-4509-459a-9a67-7a7e670e69bd)
+![15fdb57dcbc2430f00a0a1b2251bce84-9a067b8a5be22a1969d9cca1d0d1dc5a_getPixels](https://github.com/t-anikaa/Session-12-Assignment/assets/161161157/97ea9a3d-4fb3-4cce-b0b5-cbcb018bb62d)
 
 
 Similarly, for producing a PNG image of the Normalized Difference Moisture Index (NDMI) map, the code follows a parallel procedure. 
@@ -35,6 +37,8 @@ Similarly, for producing a PNG image of the Normalized Difference Moisture Index
 
 *   [GEE link](https://code.earthengine.google.com/31e3e952e36ab895d93e0785ed0d9bbc)
 *   [Code file link](https://github.com/t-anikaa/Session-12-Assignment/blob/main/Q&A%5B3%5DNDMI.js)
+![Capture12 3 2](https://github.com/t-anikaa/Session-12-Assignment/assets/161161157/ac6ad149-275f-4168-bab8-923e7425a83a)
+![39a155c84a76b564ffeda639e02d09e4-e391d4daed95b29608c0b4dc106b0ebb_getPixels](https://github.com/t-anikaa/Session-12-Assignment/assets/161161157/ff1d1e93-f34b-493f-9d0d-164f6107b251)
 
 
 
