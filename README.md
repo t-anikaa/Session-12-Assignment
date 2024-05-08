@@ -31,12 +31,11 @@
 
 
 Similarly, for producing a PNG image of the Normalized Difference Moisture Index (NDMI) map, the code follows a parallel procedure. 
-![Capture12 3 2](https://github.com/t-anikaa/Session-12-Assignment/assets/161161157/7f798ef8-0785-4cf7-b08b-49759459022e)
 
 
 *   [GEE link](https://code.earthengine.google.com/31e3e952e36ab895d93e0785ed0d9bbc)
 *   [Code file link](https://github.com/t-anikaa/Session-12-Assignment/blob/main/Q&A%5B3%5DNDMI.js)
-![Capture12 3 1](https://github.com/t-anikaa/Session-12-Assignment/assets/161161157/59771c42-06db-41f4-85ba-beddfb268441)
+
 
 
 
