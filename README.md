@@ -8,10 +8,9 @@
 
 *   [GEE link](https://code.earthengine.google.com/9585b4d41b33c496b368dddc233b2f5b)
 *   [Code file link](https://github.com/t-anikaa/Session-12-Assignment/blob/main/Q%26A%5B1%5D.js)
-
+![Capture12(1)](https://github.com/t-anikaa/Session-12-Assignment/assets/161161157/59d68fc6-b1d1-4b8e-98ff-79045995908c)
 
 **Q[2].** Make a Normalized Difference Moisture Index (NDMI) map of your upazila by using Landsat 9 imagery for 2023. Upload the code, code link, and screenshot in your github repo. Submit the repo link.
-![Capture12(1)](https://github.com/t-anikaa/Session-12-Assignment/assets/161161157/59d68fc6-b1d1-4b8e-98ff-79045995908c)
 
 **Ans.** The provided code generates a Normalized Difference Moisture Index (NDMI) map for the Teknaf Upazila using Landsat 9 imagery from 2023. Initially, it selects the Teknaf Upazila boundary and filters Landsat 9 imagery for the specified time frame, ensuring cloud cover is less than 10%. NDMI is then calculated by taking the normalized difference between near-infrared (Band 5) and short-wave infrared (Band 6) bands, which is a widely used index for monitoring moisture content in vegetation and soil. Subsequently, the NDMI image is visualized on the map with a color palette that ranges from blue (indicating low moisture content) to white (indicating high moisture content). Finally, the NDMI map is displayed on the map along with the Teknaf Upazila boundary, providing an insight into moisture distribution within the specified region for the given time period.
 
